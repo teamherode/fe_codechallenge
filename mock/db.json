@@ -1,0 +1,277 @@
+{
+  "skills": [
+    {
+      "id": 11,
+      "name": "fluent german speaking"
+    },
+    {
+      "id": 21,
+      "name": "fluent english speaking"
+    },
+    {
+      "id": 31,
+      "name": "fluent spanish speaking"
+    }
+  ],
+  "project_shifts": [
+    {
+      "id": 11,
+      "position": "Team Lead",
+      "area": "Office",
+      "task": "Please lead the team",
+      "start": "2024-01-22T13:00:00+01:00",
+      "end": "2024-01-22T19:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        },
+        {
+          "id": 21,
+          "name": "fluent english speaking"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "position": "Team Lead",
+      "area": "Office",
+      "task": "Please lead the team",
+      "start": "2024-01-23T13:00:00+01:00",
+      "end": "2024-01-23T19:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        },
+        {
+          "id": 21,
+          "name": "fluent english speaking"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "position": "Security",
+      "area": "Entrance East",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-22T13:30:00+01:00",
+      "end": "2024-01-22T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "position": "Security",
+      "area": "Entrance East",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-23T13:30:00+01:00",
+      "end": "2024-01-23T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "position": "Security",
+      "area": "Entrance West",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-22T13:30:00+01:00",
+      "end": "2024-01-22T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "position": "Security",
+      "area": "Entrance West",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-23T13:30:00+01:00",
+      "end": "2024-01-23T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "position": "Security",
+      "area": "Entrance North",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-22T13:30:00+01:00",
+      "end": "2024-01-22T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "position": "Security",
+      "area": "Entrance North",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-23T13:30:00+01:00",
+      "end": "2024-01-23T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "position": "Security",
+      "area": "Entrance South (Guest entrance)",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-22T13:30:00+01:00",
+      "end": "2024-01-22T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 21,
+          "name": "fluent english speaking"
+        },
+        {
+          "id": 31,
+          "name": "fluent spanish speaking"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "position": "Security",
+      "area": "Entrance South (Guest entrance)",
+      "task": "Make sure no illegal stuff is brought in",
+      "start": "2024-01-23T13:30:00+01:00",
+      "end": "2024-01-23T18:00:00+01:00",
+      "skills": [
+        {
+          "id": 21,
+          "name": "fluent english speaking"
+        },
+        {
+          "id": 31,
+          "name": "fluent spanish speaking"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "position": "Barkeeper",
+      "area": "Entrance East",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-22T14:30:00+01:00",
+      "end": "2024-01-22T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 121,
+      "position": "Barkeeper",
+      "area": "Entrance East",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-22T14:30:00+01:00",
+      "end": "2024-01-22T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 131,
+      "position": "Barkeeper",
+      "area": "Entrance East",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-23T14:30:00+01:00",
+      "end": "2024-01-23T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 141,
+      "position": "Barkeeper",
+      "area": "Entrance East",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-23T14:30:00+01:00",
+      "end": "2024-01-23T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 151,
+      "position": "Barkeeper",
+      "area": "Entrance West",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-22T14:30:00+01:00",
+      "end": "2024-01-22T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 161,
+      "position": "Barkeeper",
+      "area": "Entrance West",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-22T14:30:00+01:00",
+      "end": "2024-01-22T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 171,
+      "position": "Barkeeper",
+      "area": "Entrance West",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-23T14:30:00+01:00",
+      "end": "2024-01-23T19:00:00+01:00",
+      "skills": []
+    },
+    {
+      "id": 181,
+      "position": "Barkeeper",
+      "area": "Entrance West",
+      "task": "Sell beverages to the visitors",
+      "start": "2024-01-23T14:30:00+01:00",
+      "end": "2024-01-23T19:00:00+01:00",
+      "skills": []
+    }
+  ],
+  "project_shift_applications": [
+    {
+      "id": 11,
+      "contact": "121",
+      "shift": "1",
+      "note": "This is my dream job"
+    },
+    {
+      "id": 21,
+      "contact": "121",
+      "shift": "11",
+      "note": "This is my dream job"
+    }
+  ],
+  "me": {
+    "contact": {
+      "id": 121,
+      "firstName": "Timothy",
+      "lastName": "Tester",
+      "skills": [
+        {
+          "id": 11,
+          "name": "fluent german speaking"
+        },
+        {
+          "id": 21,
+          "name": "fluent english speaking"
+        }
+      ]
+    }
+  }
+}
