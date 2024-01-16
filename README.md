@@ -57,7 +57,9 @@ You are encouraged to use any libraries you like. We are using React in our fron
 
 ## Submission:
 
-Please send us a link to a GitHub repository with your solution. If you have any questions, feel free to contact us at any time. If you don't have time to finish the task, please prepare a MVP and explain how you would continue to work on it.
+For submitting the coding challenge we would like to ask you to create a repository (preferably on GitHub), which you can share with us once you are done. If you don't use GitHub, you can use any other tool of your choice as long as you are able to give access to the repository to us in the end.
+
+If you have any questions, feel free to contact us at any time. If you don't have time to finish the task, please prepare an MVP and explain how you would continue to work on it.
 
 ## Hints:
 
