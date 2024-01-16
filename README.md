@@ -58,3 +58,9 @@ You are encouraged to use any libraries you like. We are using React in our fron
 ## Submission:
 
 Please send us a link to a GitHub repository with your solution. If you have any questions, feel free to contact us at any time. If you don't have time to finish the task, please prepare a MVP and explain how you would continue to work on it.
+
+## Hints:
+
+- if you need more inside on how `json-server` works, you can find the documentation here: [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+
+## Happy coding! 🚀
